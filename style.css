@@ -19,12 +19,23 @@ h1 {
     font-family: 'Alfa Slab One', cursive;
 }
 
+h3 {
+    font-family: 'Viga', sans-serif;
+    padding-top: 2em;
+    padding-bottom: 0.6em;
+}
+
 h5 {
     font-family: 'Viga', sans-serif;
 }
 
 .sub-title {
     font-size: 2em;
+}
+
+.icons {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
 }
 
 .icon {
